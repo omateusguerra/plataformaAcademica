@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: antiquewhite;
+    display: block;
+    background-color: rgb(76, 0, 255);
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
